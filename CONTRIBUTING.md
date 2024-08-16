@@ -4,6 +4,7 @@
 
 ## Updating
 
+- `swift package dump-package`
 - `git add -A`
 - `git commit -m "message"`
 - `git push`
